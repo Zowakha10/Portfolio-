@@ -1,1 +1,1 @@
-This my first project that I completed 
+This is my first project that I completed 
